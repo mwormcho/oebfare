@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Move Explorer tests to scheduled CI (#8305)

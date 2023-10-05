@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)

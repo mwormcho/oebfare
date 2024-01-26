@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)

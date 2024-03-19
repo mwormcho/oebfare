@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.0.229 add model.embed() method (#7098)

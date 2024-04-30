@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add TensorRT Docs Integrations Page (#7855)
